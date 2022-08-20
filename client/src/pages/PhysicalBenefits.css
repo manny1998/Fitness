@@ -1,0 +1,39 @@
+.wabr-para {
+  font-size: 1.5em;
+  justify-content: center;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  padding-bottom: 1rem;
+  background-color: rgb(246, 245, 233);
+  color: rgb(168, 99, 50);
+}
+
+.wabr-background {
+  background-size: cover;
+  background-position: center;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.wabr-heading {
+  font-size: 2.5em;
+  justify-content: center;
+  text-align: center;
+}
+
+.m-0 {
+  color: rgb(248, 242, 189);
+}
+
+.btn.btn-info {
+  background-color: rgb(168, 99, 50);
+}
+
+.btn.btn-info:hover {
+  color: rgb(248, 242, 189);
+}
+
+.btn.btn-light {
+  background-color: rgb(248, 242, 189);
+}
