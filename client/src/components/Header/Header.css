@@ -1,0 +1,36 @@
+.nav-container {
+  background: rgb(32, 151, 42);
+}
+.bg-primary {
+  background-color: whitesmoke;
+}
+
+.header {
+  image-rendering: optimizeSpeed;
+  justify-content: left;
+  background-position: center;
+  width: fit-content;
+  height: 10%;
+  min-height: 500%;
+  min-width: 100%;
+  color: rgb(248, 242, 189);
+}
+
+.btn.btn-info {
+  background-color: rgb(50, 168, 103);
+}
+
+.btn.btn-info:hover {
+  color: rgb(248, 242, 189);
+}
+
+.btn.btn-light {
+  background-color: rgb(248, 242, 189);
+}
+
+.image {
+  background-size: cover;
+  background-position: center;
+  min-height: 100%;
+  min-width: 100%;
+}
