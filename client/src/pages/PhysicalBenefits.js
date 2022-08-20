@@ -18,7 +18,6 @@ const PhysicalBenefits = () => {
             tasks each day that <br></br>
             it's impossible to make any progress on the things that we really
             want to achieve, <br></br>
-            our Big Rocks.
             <br></br>
             <br></br>
             <br></br>

@@ -19,7 +19,7 @@ const MyWorkoutplans = () => {
     if (storedWorkoutplans) setWorkoutplans(storedWorkoutplans);
   }, []);
 
-  // saving the Rocks in browser storage to prevent loss of Rocks on refreshing tab
+  
   useEffect(() => {
     localStorage.setItem("workoutplans", JSON.stringify(workoutplans));
   }, [workoutplans]);
