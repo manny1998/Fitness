@@ -1,0 +1,10 @@
+.row {
+  display: block;
+  text-align: left;
+  font-size: 20px;
+  margin: 0 0 2vh 0;
+}
+
+.card {
+  width: 100%;
+}
