@@ -1,0 +1,19 @@
+.home-para {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 3.5em;
+  justify-content: center;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  padding-bottom: 1rem;
+  background-color: rgb(248, 242, 189);
+  background: transparent;
+  color: rgb(168, 99, 50);
+}
+
+main {
+  background-size: cover;
+  background-position: center;
+  min-height: 100%;
+  min-width: 100%;
+}
