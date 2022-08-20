@@ -4,15 +4,32 @@
   "description": "",
   "main": "server/server.js",
   "scripts": {
-    "start": "node server/server.js --ignore client",
+    "start": "node server/server.js",
     "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
     "build": "cd client && npm run build"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "Dependencies": {
+    "nodemon": "^2.0.15",
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.2",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.2",
+    "express-handlebars": "^5.3.5",
+    "express-session": "^1.17.2",
+    "googleapis": "^92.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0",
+    "moment": "^29.1"
+  },
   "devDependencies": {
-    "concurrently": "^5.3.0"
+    "concurrently": "^5.1.0",
+    "eslint": "^7.12.1",
+    "eslint-config-prettier": "^6.15.0",
+    "prettier": "^2.1.2"
   }
 }
