@@ -35,7 +35,12 @@ Or view the benefit pages which might help motivate the user:
 If the user does not have a account then they will have to head to the sign up page:
 <img src="./client/public/images/signup.jpg">
 
+Once logged in the user will be redirected to the home page:
+<img src="./client/public/images/home.jpg">
 
+From here the user can begin to update there workouts or PB(Personal best):
+<img src="./client/public/images/workout.jpg">
+<img src="./client/public/images/pb.jpg">
 
 # License
 This project is licensed under the MIT license. 
