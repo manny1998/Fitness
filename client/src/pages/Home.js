@@ -7,8 +7,8 @@ const Home = () => {
         <div className="home-background">
           <div className="home-para flex-row justifty-center">
             <br></br>
-            Sign up<br></br>
-            to help you achieve your fitness goals <br></br>
+            Lets get started<br></br>
+            Health is wealth <br></br>
             <br></br>
             <br></br>
           </div>
