@@ -12,27 +12,23 @@ const PhysicalBenefits = () => {
               Positives of Fitness for physical health
             </div>
             <br></br>
-           fitness good for physical health
             <br></br>
-            The problem is that most of us get bombarded with so many small
-            tasks each day that <br></br>
-            it's impossible to make any progress on the things that we really
-            want to achieve, <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            So lets get started signup if you havent or log back in and add your PB's or to your workout <br></br>
+            <ul>
+              <li>Improves brain health</li>
+              <li>Helps to manage weight</li>
+              <li>Reduces the risk of diseases</li>
+              <li>Helps to manage weight</li>
+              <li>Improves ability to perform everyday tasks</li>
+              <li>strengthens bones and muscles</li>
+            </ul>
             <br></br>
             <br></br>
-            <div className="getstarted justify-center">
-              <Link
-                className="btn btn-lg btn-light m-2 flex-row justify-left"
-                to="/signup"
-              >
-                Get Started
-              </Link>
-            </div>
+            <br></br>
+            <br></br>
+            <br></br>
+            So lets get started! Sign up if you haven't already or log back in and add to your workout plans or update your PB's <br></br>
+            <br></br>
+            <br></br>
           </div>
         </div>
       </main>

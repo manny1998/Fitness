@@ -6,9 +6,9 @@
   border-style: solid;
   border-width: 1px;
   padding-bottom: 1rem;
-  background-color: rgb(248, 242, 189);
+  background-color: rgb(25, 232, 53);
   background: transparent;
-  color: rgb(168, 99, 50);
+  color: rgb(101, 106, 102);
 }
 
 main {
@@ -16,4 +16,6 @@ main {
   background-position: center;
   min-height: 100%;
   min-width: 100%;
+  color: rgb(25, 232, 53);
 }
+

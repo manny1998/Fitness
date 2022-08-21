@@ -11,9 +11,9 @@ const MentalHealth = () => {
               Benefits of exercise for mental health
             </div>
             <br></br>
-            <br></br>- it can reduce your stress and symptoms of mental health conditions like depression and anxiety
+            <br></br>- It can reduce your stress and symptoms of mental health conditions like depression and anxiety
             <br></br>
-            <br></br>- Coz Exercise releases chemicals like endorphins and serotonin that improve your mood.
+            <br></br>- Because exercise releases chemicals like endorphins and serotonin that improve your mood.
             <br></br>
           </div>
         </div>
